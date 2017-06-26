@@ -1,0 +1,3 @@
+eggs = 10 ** 2
+
+print eggs
