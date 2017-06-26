@@ -1,4 +1,0 @@
-count_to = 666 + 333
-
-
-print count_to
